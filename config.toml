@@ -13,8 +13,8 @@ description = "Bien démarrer avec Hugo"
 metadescription = "Utilisé dans la balise meta 'description' pour l’accueil et les pages d’index, faute de quoi c'est l’entrée 'description' du front matter de la page qui sera utilisé."
 
 #cover = "/static/img/darius-soodmand-116253.jpg"
-cover = "/src/img/darius-soodmand-116253.jpg"
-#cover = "/images/darius-soodmand-116253.jpg"
+#cover = "/src/img/darius-soodmand-116253.jpg"
+cover = "images/darius-soodmand-116253.jpg"
 
 author = "Benjamin SICARD"
 
